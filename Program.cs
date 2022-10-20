@@ -33,7 +33,7 @@ while (wantsToPlay) {
   Console.WriteLine("");  // Line break for readability
 
   do {
-    Console.WriteLine("Do you want to play again? (Please enter \"yes\" or \"no\")");
+    Console.WriteLine("Do you want to play again? (Please enter \"y\" or \"n\")");
     response = Console.ReadLine().ToLower();
     if (response == "no" || response == "n") {
       wantsToPlay = false;
