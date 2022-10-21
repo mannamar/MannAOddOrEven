@@ -2,6 +2,8 @@
 // 10-20-22
 // Mini Challenge #6 - Odds or Evens
 // We will take an input and tell the user wether the number is odd or even. Then ask them to play again
+// Peer reviewed by Reed Godwin: Very good code, super robust with no room for errors. Tried my hardest to break it and could not succeed. I can alwasy find good stuff from his code and I never have anything bad to say. Always an interesting and learning experience!
+// https://github.com/peedrama/MannAOddOrEven
 
 Console.Clear();
 
